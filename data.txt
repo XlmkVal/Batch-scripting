@@ -1,0 +1,4 @@
+Val, dak, 1900
+cec, djur, 1910
+alex, phil, 1920
+beti, phil, 1930
