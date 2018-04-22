@@ -3,9 +3,8 @@ rem NOt working, must figure out why
 setlocal enabledelayedexpansion
 
 goto :main
-setlocal
 :main
-
+setlocal
     set /a counter=0
     set /a max=10
 
