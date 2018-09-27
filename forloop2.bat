@@ -5,8 +5,10 @@ goto :main
 
 :main
 
-    for /f  %%f in (data.txt) do (
-        echo %%f
+    for /f  %%f in (%date%) do (
+        set temp = %%f
+        echo !temp!
     )
 
-goto :eol
+
+goto :eof
